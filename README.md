@@ -1,8 +1,8 @@
-# IRCTC Business Insights Dashboard | Power BI
+# IRCTC Business Insights Dashboard Using Power BI
 
 ## Project Overview
 
-This project analyzes IRCTC railway booking data using Microsoft Power BI to identify booking trends, revenue patterns, passenger demand, and train performance. The interactive dashboard helps users explore railway business data through visual reports and KPIs.
+This project analyzes IRCTC railway booking data using Power BI to identify booking trends, revenue patterns, passenger demand, and train performance. The interactive dashboard helps users explore railway business data through visual reports and KPIs.
 
 ## Objectives
 
@@ -13,9 +13,9 @@ This project analyzes IRCTC railway booking data using Microsoft Power BI to ide
 
 ## Tools & Technologies
 
-* **Microsoft Power BI**
-* **Power Query** (if used)
-* **CSV Dataset**
+* **Power BI**
+* **Power Query**
+* **Excel CSV Dataset**
 * **Data Visualization and KPI Reporting**
 
 ## Key Features
@@ -32,7 +32,7 @@ The project uses railway booking data containing booking details, train informat
 
 ## Project Files
 
-* `IRCTC_Dashboard.pbix` — Power BI project file.
+* `IRCTC Dashboard.pbix` — Power BI project file.
 * `Dataset/` — Source dataset.
 * `Screenshots/` — Dashboard previews.
 
@@ -48,9 +48,3 @@ The project uses railway booking data containing booking details, train informat
 1. Download the `.pbix` file from this repository.
 2. Open it using Microsoft Power BI Desktop.
 3. Interact with the dashboard using slicers, filters, bookmarks, and tooltips.
-
-## Author
-
-**Umair Ansari**
-
-GitHub: [Umair24](https://github.com/Umair24)
